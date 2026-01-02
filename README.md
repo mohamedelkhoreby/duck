@@ -1,10 +1,8 @@
-**Duck Backend
-**
+**Duck Backend**
+
 Duck is a **Node.js + Express** backend API built with a strong focus on **Clean Architecture**, **Single Responsibility Principle (SRP)**, and long-term scalability.
 
 The project follows clear separation of concerns and is structured to be production-ready.
-
----
 
 **Features**
 
@@ -17,8 +15,8 @@ The project follows clear separation of concerns and is structured to be product
 - ES Modules
 - Production-ready setup
 
-**Project Structure
-**
+**Project Structure**
+
 src/
 ├── index.js              # Application entry point (server startup)
 ├── app.controller.js     # App bootstrap (middlewares & routes)
